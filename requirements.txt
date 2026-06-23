@@ -3,5 +3,5 @@ pandas
 numpy
 matplotlib
 opencv-python-headless
-tensorflow==2.16.1
+tensorflow
 kagglehub
